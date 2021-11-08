@@ -64,21 +64,11 @@ b.sendkey(addres, b.dataFromExcel("Sheet1", 1, 12));
  String value = orderid.getAttribute("value");
  System.out.println(value);
  driver.quit();
- System.out.println(1224);
- System.out.println(1224);
- System.out.println(1224);
- System.out.println(1224);
- System.out.println(1224);
- System.out.println(1224);
- System.out.println(1224);
- 
- System.out.println(999);
- System.out.println(999);
- System.out.println(999);
- System.out.println(999);
- System.out.println(999);
- System.out.println(999);
- 
+System.out.println(7328); 
+System.out.println(7328); 
+System.out.println(7328); 
+System.out.println(7328); 
+System.out.println(7328); 
  
  
  
