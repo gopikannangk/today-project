@@ -42,6 +42,10 @@ public class Pomdatas extends Basecls {
 		p.selectbyvalue(bh.getCardexpryyer(), p.dataFromExcel("Sheet1", 1, 16));
 		p.sendkey(bh.getCcv(), p.dataFromExcel("Sheet1", 1, 17));
 		p.clikckbtn(bh.getBooknow());
+		p.clikckbtn(bh.getBooknow());
+		p.clikckbtn(bh.getBooknow());
+		p.clikckbtn(bh.getBooknow());
+		p.clikckbtn(bh.getBooknow());
 
 	}
 
